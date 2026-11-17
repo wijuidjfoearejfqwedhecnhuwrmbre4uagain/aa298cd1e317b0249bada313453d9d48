@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manmanga.com/sitemap.xml
